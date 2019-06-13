@@ -1,4 +1,4 @@
-FROM node:10.16.0-alpine
+FROM node:12.4.0-alpine
 
 LABEL maintainer="blackholegalaxy"
 

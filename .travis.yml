@@ -6,6 +6,7 @@ services:
 branches:
   only:
     - master
+    - node-12
     - /^v?\d+\.\d+(\.\d+)?(-\S*)?$/
 
 script: 
